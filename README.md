@@ -20,30 +20,37 @@ I care about writing clean, maintainable code and shipping things that actually 
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Athrv16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Athrv16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Athrv16&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
 ## 🚀 Projects worth looking at
 
 ### 💰 [FinanSmartz](https://finansmartzv2.vercel.app) — *Live in production*
+
 AI-powered personal finance tracker. Tracks spending, gives insights, and helps you actually understand where your money goes.
+
 `Django` `React` `AI` `PostgreSQL`
 
 ### ✅ Daily Flow
+
 A clean to-do and productivity app built with Flask. Simple, fast, and distraction-free.
+
 `Flask` `Python` `SQLite`
 
 ### 🏥 Hospital ERP *(professional project)*
+
 Multi-module ERP for a multispecialty hospital — HR workflows, resignation approval pipelines, duty rosters, shift management, and NABH-compliant staffing logic.
+
 `Django` `React` `REST API`
 
 ---
@@ -65,7 +72,9 @@ Multi-module ERP for a multispecialty hospital — HR workflows, resignation app
 ## 📬 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva_Kantode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-kantode/)
+
 [![Portfolio](https://img.shields.io/badge/Live_Project-FinanSmartz-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://finansmartzv2.vercel.app)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Athrv16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athrv16)
 
 If you're hiring or want to collaborate on something interesting — reach out on LinkedIn.
