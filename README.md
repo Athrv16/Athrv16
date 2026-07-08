@@ -16,16 +16,11 @@ I care about writing clean, maintainable code and shipping things that actually 
 
 ## 🛠️ Tech I work with
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,react,js,postgres,git,github&perrow=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,java,spring,react,js,postgres,git,github,docker&perrow=10)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Athrv16&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Athrv16&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-</p>
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Athrv16&theme=tokyonight&hide_border=true" />
@@ -41,35 +36,41 @@ AI-powered personal finance tracker. Tracks spending, gives insights, and helps 
 
 `Django` `React` `AI` `PostgreSQL`
 
-### ✅ Daily Flow
+---
 
-A clean to-do and productivity app built with Flask. Simple, fast, and distraction-free.
+### 🏥 Hospital ERP *(Professional Project)*
 
-`Flask` `Python` `SQLite`
+Multi-module ERP for a multispecialty hospital where I developed HR and Payroll modules including Employee Management, Attendance Management, Payroll, Duty Roster, Onboarding, Finance, Employee Documents, and Training & Credentials.
 
-### 🏥 Hospital ERP *(professional project)*
-
-Multi-module ERP for a multispecialty hospital — HR workflows, resignation approval pipelines, duty rosters, shift management, and NABH-compliant staffing logic.
-
-`Django` `React` `REST API`
+`Django` `React` `REST API` `PostgreSQL`
 
 ---
 
-## 🔧 Currently building on
+### ✅ Daily Flow
 
-- Deepening my knowledge of **Docker** and **CI/CD pipelines**
-- Picking up **TypeScript** on the frontend
-- Running **ZeroIndex** — a YouTube Shorts channel breaking down DSA and coding concepts for developers
+A clean to-do and productivity application built with Flask.
+
+`Flask` `Python` `SQLite`
+
+---
+
+## 🔧 Currently Building
+
+- 🐳 Learning Docker & CI/CD
+- ⚡ Exploring TypeScript
+- 🎥 Running **ZeroIndex** (YouTube Shorts on DSA & Programming)
 
 ---
 
 ## 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/Athrv16/Athrv16/output/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Athrv16/Athrv16/output/github-snake-dark.svg" />
+</p>
 
 ---
 
-## 📬 Let's connect
+## 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva_Kantode-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharva-kantode/)
 
@@ -77,4 +78,6 @@ Multi-module ERP for a multispecialty hospital — HR workflows, resignation app
 
 [![GitHub](https://img.shields.io/badge/GitHub-Athrv16-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Athrv16)
 
-If you're hiring or want to collaborate on something interesting — reach out on LinkedIn.
+---
+
+⭐ **Thanks for visiting my profile!** If you like my work or want to collaborate on an exciting project, feel free to connect with me on LinkedIn or GitHub.
